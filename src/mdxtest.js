@@ -20,6 +20,9 @@ const mdx = `
 - mdx
 
 <Demo />
+
+## woo hoo, it works!
+
 `;
 
 export default () => (
